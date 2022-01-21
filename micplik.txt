@@ -1,0 +1,6 @@
+plik mic testowty
+<<<<<<< HEAD
+ala ma kota
+=======
+nowiutki
+>>>>>>> 7556daf9cbcce2105e3bf3ebce3207f7c135681a
